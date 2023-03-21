@@ -1,0 +1,4 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+0.2,YT015 (DefaultEntity.12),簡易模型_資料串連CSV版,10.Process1,[DbWrite] DbWrite1,Unable to get value of property 'DbWrite.Columns[3].Expression'.
+0.2,YT015 (DefaultEntity.12),簡易模型_資料串連CSV版,10.Process1,[DbWrite] DbWrite1,Data type mismatch. Unable to convert value 'YYYY-MM-DD' from type 'String' to type 'Number'.
+
